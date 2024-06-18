@@ -1,0 +1,8 @@
+[package]
+name = "dbus-activate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.7", features = ["cargo"] }
+dbus = "0.9.7"
