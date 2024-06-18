@@ -16,10 +16,6 @@ dbus-activate --list
 dbus-activate <applicationId>
 // ex: dbus-activate wechat
 ```
-```sh
-dbus-activate <applicationId>
-// ex: dbus-activate wechat
-```
 
 ## Who can use
 * kde-plasma6 : ✅ tested
